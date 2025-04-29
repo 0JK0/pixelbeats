@@ -1,1 +1,1 @@
-# pixelbeats
+# PixelBeats
